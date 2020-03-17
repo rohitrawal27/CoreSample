@@ -1,0 +1,11 @@
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\bin\Debug\netcoreapp3.1\Practice.SL.deps.json
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\bin\Debug\netcoreapp3.1\Practice.SL.dll
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\bin\Debug\netcoreapp3.1\Practice.SL.pdb
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\bin\Debug\netcoreapp3.1\Practice.Utilities.dll
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\bin\Debug\netcoreapp3.1\Practice.Utilities.pdb
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\obj\Debug\netcoreapp3.1\Practice.SL.csprojAssemblyReference.cache
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\obj\Debug\netcoreapp3.1\Practice.SL.AssemblyInfoInputs.cache
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\obj\Debug\netcoreapp3.1\Practice.SL.AssemblyInfo.cs
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\obj\Debug\netcoreapp3.1\Practice.SL.csproj.CopyComplete
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\obj\Debug\netcoreapp3.1\Practice.SL.dll
+C:\Practice\03-15-2020\New folder\Practice\Practice.SL\obj\Debug\netcoreapp3.1\Practice.SL.pdb

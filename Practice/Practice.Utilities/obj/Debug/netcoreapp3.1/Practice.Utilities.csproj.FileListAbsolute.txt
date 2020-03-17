@@ -1,0 +1,8 @@
+C:\Practice\03-15-2020\New folder\Practice\Practice.Utilities\bin\Debug\netcoreapp3.1\Practice.Utilities.deps.json
+C:\Practice\03-15-2020\New folder\Practice\Practice.Utilities\bin\Debug\netcoreapp3.1\Practice.Utilities.dll
+C:\Practice\03-15-2020\New folder\Practice\Practice.Utilities\bin\Debug\netcoreapp3.1\Practice.Utilities.pdb
+C:\Practice\03-15-2020\New folder\Practice\Practice.Utilities\obj\Debug\netcoreapp3.1\Practice.Utilities.AssemblyInfoInputs.cache
+C:\Practice\03-15-2020\New folder\Practice\Practice.Utilities\obj\Debug\netcoreapp3.1\Practice.Utilities.AssemblyInfo.cs
+C:\Practice\03-15-2020\New folder\Practice\Practice.Utilities\obj\Debug\netcoreapp3.1\Practice.Utilities.dll
+C:\Practice\03-15-2020\New folder\Practice\Practice.Utilities\obj\Debug\netcoreapp3.1\Practice.Utilities.pdb
+C:\Practice\03-15-2020\New folder\Practice\Practice.Utilities\obj\Debug\netcoreapp3.1\Practice.Utilities.csprojAssemblyReference.cache
